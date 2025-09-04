@@ -1,1 +1,5 @@
-name: test
+name: <environment-name>
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
