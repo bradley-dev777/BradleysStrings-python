@@ -1,5 +1,6 @@
 import sys
 sys.path.insert(1,"/workspaces/BradleysStrings-python/src/BradleysStrings/")
+sys.path.insert(2,"/home/runner/work/BradleysStrings-python/BradleysStrings-python/src/BradleysStrings/")
 import BradleysStrings
 def test_1():
     print("Testing insert(\"aaaaa\",2,\"b\")!")
