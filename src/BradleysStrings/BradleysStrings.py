@@ -4,9 +4,9 @@ def insert(mainstr,pos,insertstr):
     return mainstr1 + insertstr + mainstr2
 
 def replaceatpos(mainstr,pos,repstr):
-    mainstr1 = mainstr[:pos - 1]
-    mainstr2 = mainstr[pos:]
-    return mainstr1 + insertstr + mainstr2
+    mainstr1 = mainstr[:pos]
+    mainstr2 = mainstr[pos + 1:]
+    return mainstr1 + repstr + mainstr2
 
 def splitatpos(str,pos):
     return [str[:pos],str[pos:]]
