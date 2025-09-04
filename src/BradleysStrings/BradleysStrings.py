@@ -30,5 +30,6 @@ def replaceinstr(str,replacedarray = ["A","b","1"],replacewitharr = ["A","b","1"
         if letter in replacedarray:
             replacedi = replacedarray.index(letter)
             output = replaceatpos(output,i,replacewitharr[replacedi])
+        i += 1
 
     return output
