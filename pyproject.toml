@@ -3,6 +3,7 @@ name = "BradleysStrings"
 version = "0.0.1"
 authors = [
   { name="Bradley Hu", email="bradleyhu0707@gmail.com" },
+  { name="Jayden Yin", email="technodragon555@gmail.com"}
 ]
 description = "Morer stuff for dealing with strings!"
 readme = "README.md"
