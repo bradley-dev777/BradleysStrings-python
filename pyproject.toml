@@ -9,10 +9,10 @@ description = "Morer stuff for dealing with strings!"
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [
-    "Programming Language :: Python :: 3",
+    "Programming Language :: Python",
     "Operating System :: OS Independent",
 ]
-license = "MIT"
+license = "GNU"
 license-files = ["LICEN[CS]E*"]
 
 [project.urls]
