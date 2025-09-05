@@ -18,3 +18,7 @@ license-files = ["LICENSE"]
 [project.urls]
 Homepage = "https://github.com/bradley-dev777/BradleysStrings-python/"
 Issues = "https://github.com/bradley-dev777/BradleysStrings-python/issues"
+
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
