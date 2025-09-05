@@ -1,3 +1,6 @@
+# Actions workflow change
+.github/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
